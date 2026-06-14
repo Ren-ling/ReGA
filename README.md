@@ -1,6 +1,6 @@
 # ReGA
 
-## Overall framework1
+## Overall framework
 
 ![Framework](fig/framework.jpg)
 

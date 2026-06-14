@@ -1,0 +1,18 @@
+# model weights
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# datasets
+data/
+ReGA_main/weights/
+
+# temporary/cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+Thumbs.db
